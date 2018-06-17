@@ -1,0 +1,120 @@
+D:/AleX/Codes/Verilog/Lab5/MUX_2to1.v {1 {vlog -work work -stats=none D:/AleX/Codes/Verilog/Lab5/MUX_2to1.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module MUX_2to1
+
+Top level modules:
+	MUX_2to1
+
+} {} {}} D:/AleX/Codes/Verilog/Lab5/TestBench.v {1 {vlog -work work -stats=none D:/AleX/Codes/Verilog/Lab5/TestBench.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module TestBench
+
+Top level modules:
+	TestBench
+
+} {} {}} D:/AleX/Codes/Verilog/Lab5/Sign_Extend.v {1 {vlog -work work -stats=none D:/AleX/Codes/Verilog/Lab5/Sign_Extend.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module Sign_Extend
+
+Top level modules:
+	Sign_Extend
+
+} {} {}} D:/AleX/Codes/Verilog/Lab5/Adder.v {1 {vlog -work work -stats=none D:/AleX/Codes/Verilog/Lab5/Adder.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module Adder
+
+Top level modules:
+	Adder
+
+} {} {}} D:/AleX/Codes/Verilog/Lab5/Pipe_CPU_1.v {1 {vlog -work work -stats=none D:/AleX/Codes/Verilog/Lab5/Pipe_CPU_1.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module Pipe_CPU_1
+
+Top level modules:
+	Pipe_CPU_1
+
+} {} {}} D:/AleX/Codes/Verilog/Lab5/Reg_File.v {1 {vlog -work work -stats=none D:/AleX/Codes/Verilog/Lab5/Reg_File.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module Reg_File
+
+Top level modules:
+	Reg_File
+
+} {} {}} D:/AleX/Codes/Verilog/Lab5/Decoder.v {1 {vlog -work work -stats=none D:/AleX/Codes/Verilog/Lab5/Decoder.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module Decoder
+
+Top level modules:
+	Decoder
+
+} {} {}} D:/AleX/Codes/Verilog/Lab5/MUX_3to1.v {1 {vlog -work work -stats=none D:/AleX/Codes/Verilog/Lab5/MUX_3to1.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module MUX_3to1
+
+Top level modules:
+	MUX_3to1
+
+} {} {}} D:/AleX/Codes/Verilog/Lab5/ProgramCounter.v {1 {vlog -work work -stats=none D:/AleX/Codes/Verilog/Lab5/ProgramCounter.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module ProgramCounter
+
+Top level modules:
+	ProgramCounter
+
+} {} {}} D:/AleX/Codes/Verilog/Lab5/Data_Memory.v {1 {vlog -work work -stats=none D:/AleX/Codes/Verilog/Lab5/Data_Memory.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module Data_Memory
+
+Top level modules:
+	Data_Memory
+
+} {} {}} D:/AleX/Codes/Verilog/Lab5/Instruction_Memory.v {1 {vlog -work work -stats=none D:/AleX/Codes/Verilog/Lab5/Instruction_Memory.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module Instruction_Memory
+
+Top level modules:
+	Instruction_Memory
+
+} {} {}} D:/AleX/Codes/Verilog/Lab5/ALU.v {1 {vlog -work work -stats=none D:/AleX/Codes/Verilog/Lab5/ALU.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module ALU
+
+Top level modules:
+	ALU
+
+} {} {}} D:/AleX/Codes/Verilog/Lab5/HazardDetect.v {1 {vlog -work work -stats=none D:/AleX/Codes/Verilog/Lab5/HazardDetect.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module HazardDetect
+
+Top level modules:
+	HazardDetect
+
+} {} {}} D:/AleX/Codes/Verilog/Lab5/Pipe_Reg.v {1 {vlog -work work -stats=none D:/AleX/Codes/Verilog/Lab5/Pipe_Reg.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module Pipe_Reg
+
+Top level modules:
+	Pipe_Reg
+
+} {} {}} D:/AleX/Codes/Verilog/Lab5/ForwardingUnit.v {1 {vlog -work work -stats=none D:/AleX/Codes/Verilog/Lab5/ForwardingUnit.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module ForwardingUnit
+
+Top level modules:
+	ForwardingUnit
+
+} {} {}} D:/AleX/Codes/Verilog/Lab5/Shift_Left_Two_32.v {1 {vlog -work work -stats=none D:/AleX/Codes/Verilog/Lab5/Shift_Left_Two_32.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module Shift_Left_Two_32
+
+Top level modules:
+	Shift_Left_Two_32
+
+} {} {}} D:/AleX/Codes/Verilog/Lab5/ALU_Ctrl.v {1 {vlog -work work -stats=none D:/AleX/Codes/Verilog/Lab5/ALU_Ctrl.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module ALU_Ctrl
+
+Top level modules:
+	ALU_Ctrl
+
+} {} {}}
