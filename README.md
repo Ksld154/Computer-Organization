@@ -1,1 +1,1 @@
-# Computer-Oranization
+# Computer-Organization
