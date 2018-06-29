@@ -1,1 +1,1 @@
-*.Coq linguist-language=verilog
+*.v linguist-language=Verilog
