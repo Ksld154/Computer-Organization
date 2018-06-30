@@ -353,7 +353,7 @@ Pipe_Reg #(.size(102)) EX_MEM(
     .clk_i(clk_i),      
     .rst_i(rst_i), 
     .pipereg_write_i(1'b1), 
-    .data_i({BranchAddress, ALUResult, EX_RtData, WriteRegNum, Zero}),
+    .data_i({BranchAddress, ALUResult, EX_RtData_1, WriteRegNum, Zero}),
     .data_o({MEM_BranchAddress, MEM_ALUResult, MEM_RtData, MEM_WriteRegNum, MEM_Zero})
 );
 
