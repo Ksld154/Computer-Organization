@@ -1,4 +1,11 @@
 # Computer-Organization
+
+Course: Computer-Organization @ NCTU
+
+Semester: 2018-Spring
+
+-- 
+
 Lab1: ALU <br>
 Lab2: Simple single-cycle CPU<br>
 Lab3: Single-cycle CPU <br>
